@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSCameraUsageDescription</key>
+    <string>This app requires camera access for Augmented Reality.</string>
+    <key>NSMotionUsageDescription</key>
+    <string>This app uses motion data to enhance AR tracking.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app requires your location to guide you around campus</string>
+	<key>MKDirectionsApplicationSupportedModes</key>
+	<array/>
+    <key>ARKit</key>
+    <true/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>location</string>
+	</array>
+</dict>
+</plist>

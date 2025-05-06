@@ -1,0 +1,15 @@
+{
+  "originHash" : "cc34b98a070ccee0244c65b982897acbbe14ce51cfaea5e8bfbef9534cffbd90",
+  "pins" : [
+    {
+      "identity" : "arkit-corelocation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ProjectDent/ARKit-CoreLocation.git",
+      "state" : {
+        "revision" : "42abf4f47b191b153d4bfe4509f15617aadd837d",
+        "version" : "1.3.0"
+      }
+    }
+  ],
+  "version" : 3
+}
